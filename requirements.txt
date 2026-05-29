@@ -12,8 +12,8 @@ seaborn
 FPsim2
 ms_entropy
 pyopenms
-matchms
-usjon
+matchms==0.20.0
+ujson
 
 
 
